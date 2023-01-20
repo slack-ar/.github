@@ -1,13 +1,18 @@
-## Hi there 👋
+## Hola! 👋
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+🙋‍♀️ Somos el repo oficial de la comunidad de Slackware Argentina =) y estamos muy contentos de que estes aca.
 
-🌈 Contribution guidelines - how can the community get involved?
+🌈 ¿Cómo contribuir?
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+Toda ayuda es bienvenida, para eso podes empezar por sumarte al canal de Telegram.
 
-🍿 Fun facts - what does your team eat for breakfast?
+👩‍💻 Recursos utiles:
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+Canal de Telegram:
+https://t.me/e_slackware_org
+
+🍿 ¿Anecdota divertida?
+
+Uno de los integrantes del grupo bajo slackware durante todo un mes cuando no habia internet en Argentina usando radio.
