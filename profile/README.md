@@ -1,16 +1,15 @@
-## Hola! 👋
+## ¡Hola! 👋
 
-🙋‍♀️ Somos el repo oficial de la comunidad de Slackware Argentina =) y estamos muy contentos de que estes aca.
+¡Nos alegra que hayas encontrado nuestro repositorio oficial de la comunidad de Slackware Argentina! 🙌 Estamos para ayudar y apoyar a todos los usuarios y entusiastas de Slackware.
 
-🌈 **¿Cómo contribuir?**
+¿Queres ayudar a contribuir? ¡Eso es genial! Todas las contribuciones son bienvenidas. Una forma fácil de comenzar es uniéndote a nuestro canal de Telegram. 📱
 
-Toda ayuda es bienvenida, para eso podes empezar por sumarte al canal de Telegram.
+Recursos útiles:
 
-👩‍💻 **Recursos utiles:**
+💻 Canal de Telegram: https://t.me/e_slackware_org
 
-Canal de Telegram:
-https://t.me/e_slackware_org
+¿Queres escuchar una anécdota divertida sobre Slackware? Acá tenes una:
 
-🍿 **¿Anecdota divertida?**
+🤣 Uno de los miembros del grupo descargo Slackware durante todo un mes en Argentina cuando no había internet, ¡usando solo radio! Eso es dedicación y amor por el software libre.
 
-Uno de los integrantes del grupo bajo slackware durante todo un mes cuando no habia internet en Argentina usando radio.
+En resumen, estamos encantados de tenerte aca y todas las contribuciones son bienvenidas, podes comenzar uniéndote a nuestro canal de Telegram, seguro tenemos una anécdota divertida que muestra el amor y la dedicación de la comunidad hacia slackware.
